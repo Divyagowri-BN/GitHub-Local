@@ -1,0 +1,1 @@
+This is a file to get GitHub resource to the Local Repository.
